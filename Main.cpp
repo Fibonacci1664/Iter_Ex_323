@@ -12,5 +12,6 @@ int main()
 		std::cout << *iter << ", ";
 	}
 
+
 	return 0;
 }
